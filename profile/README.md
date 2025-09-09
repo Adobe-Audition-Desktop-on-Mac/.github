@@ -1,5 +1,5 @@
 # Adobe Audition For Mac — Desktop App For Mac OS
-![logo](https://purchase-software.net/wp-content/uploads/2020/06/Adobe-Audition.png)
+![logo](https://www.cybermania.ws/wp-content/uploads/au13.png)
 
 Adobe Audition for Mac brings professional audio editing, recording, and restoration tools directly to your desktop 🎶.  
 This repository provides a technical guide to help you explore Adobe Audition on macOS.  
